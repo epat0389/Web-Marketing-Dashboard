@@ -1,7 +1,7 @@
 ## Web Marketing Dashboard
 
 ### Overview
-The Web Marketing Dashboard is an interactive analytics tool designed to track and visualise key website performance metrics. It provides insights into user behavior, engagement trends, and performance across different device categories, helping businesses make data-driven marketing decisions.
+Designed an interactive analytics dashboard to track website performance metrics, including total sessions, bounce rates, and page load times. Analyzed user engagement trends across device categories and identified top-performing pages and traffic sources. Provided insights to optimize user experience and marketing strategies.
 
 ### Features
 - Tracks total sessions, exits, and bounce rates
